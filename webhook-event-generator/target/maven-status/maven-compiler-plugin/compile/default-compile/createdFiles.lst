@@ -1,0 +1,15 @@
+com\example\webhookgenerator\service\KafkaPublisherService$1.class
+com\example\webhookgenerator\model\WebhookEventRecord.class
+com\example\webhookgenerator\config\GeneratorProperties$AccountConfig.class
+com\example\webhookgenerator\service\EventGeneratorService.class
+com\example\webhookgenerator\service\WebhookEventPersistenceService.class
+com\example\webhookgenerator\config\JacksonConfig.class
+com\example\webhookgenerator\model\WebhookInfo.class
+com\example\webhookgenerator\service\PartitionConfigService.class
+com\example\webhookgenerator\WebhookGeneratorApplication.class
+com\example\webhookgenerator\runner\StartupEventGeneratorRunner.class
+com\example\webhookgenerator\config\GeneratorProperties.class
+com\example\webhookgenerator\config\KafkaTopicConfig.class
+com\example\webhookgenerator\service\PayloadGeneratorService.class
+com\example\webhookgenerator\service\WebhookLookupService.class
+com\example\webhookgenerator\service\KafkaPublisherService.class
